@@ -1,0 +1,3 @@
+. Installation 
+    -> composer req fruitcake/laravel-cors  
+         :=> php artisan vendor:publish --tags="cors"
